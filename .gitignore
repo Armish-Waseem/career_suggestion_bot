@@ -98,9 +98,9 @@ ehthumbs.db
 Thumbs.db
 
 # Python
-__pycache__/
-*.py[cod]
-*$py.class
+# __pycache__/
+# *.py[cod]
+# *$py.class
 *.so
 .Python
 env/
